@@ -348,7 +348,7 @@ export default {
      * Add devMode: 'webapp' to test with all generated HTML and FavIcons
      */
     new FaviconsWebpackPlugin({
-      logo: './icons/skemail-favicon.png'
+      logo: './icons/new_favicon.png'
     }),
 
     // Subresource Integrity
